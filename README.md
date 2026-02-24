@@ -183,7 +183,7 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [ ] [Type Challenges](https://tsch.js.org/)
   - [ ] [TypeHero](https://typehero.dev/)
   - [ ] Type | Treat [2020](https://dev.to/typescript/type-treat-challenge-1-829), [2021](https://devblogs.microsoft.com/typescript/type-treat-2021-day-1/)
-  - [ ] [Codeless Code - posts on TypeScript](https://code.lol/tags/typescript/) e.g. [Higher Kindred Types in TypeScript](https://code.lol/post/programming/higher-kinded-types/) and [Point-free Programming via HKTs](https://code.lol/post/programming/hkt-tacit/)
+  - [ ] [Codeless Code - posts on TypeScript](https://code.lol/tags/typescript/) e.g. [Higher Kinded Types in TypeScript](https://code.lol/post/programming/higher-kinded-types/) and [Point-free Programming via HKTs](https://code.lol/post/programming/hkt-tacit/)
   - [ ] TypeScript libraries: [TS-Pattern](https://github.com/gvergnaud/ts-pattern), [Zod](https://github.com/colinhacks/zod), [type-fest](https://github.com/sindresorhus/type-fest), [Effect](https://effect.website/)
   - [ ] 💲[TypeScript Cookbook](https://typescript-cookbook.com/)
   - [ ] 💲[Effective TypeScript](https://effectivetypescript.com/)
