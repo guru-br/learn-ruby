@@ -363,9 +363,8 @@ I've chosen the codebases below based on a these criteria:
 
 If you want to explore more widely, here are other places to find open-source Ruby projects:
 
-* [OpenSourceRails](https://opensourcerails.org/)
+* [Real World Rails](https://github.com/steveclarke/real-world-rails) (and [how to search through it manually](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
 * [Ruby projects on CodeTriage](https://www.codetriage.com/?language=Ruby), though not all of them are Rails apps
-* [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
 * [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
 
 Without further ado…
