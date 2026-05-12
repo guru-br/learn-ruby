@@ -295,8 +295,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] 💲[Noah Gibbs - Rebuilding Rails](https://noahgibbs.gumroad.com/l/rebuilding_rails) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
 - **Architecture:**
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
-  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
-  - [ ] 💲[Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications) and [Gusto engineering blog posts on modularity](https://engineering.gusto.com/all?topic=modularization)
+  - [ ] 💲[Modular Rails: Architecture for the Long Game](https://davidslv.uk/modular-rails/) <!-- https://m.media-amazon.com/images/I/51204bXr7tL._SY522_.jpg -->
 - **Background jobs:**
   - [x] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
   - [x] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works) <!-- https://avatars.githubusercontent.com/u/124714131?s=400 -->
