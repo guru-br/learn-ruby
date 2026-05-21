@@ -142,7 +142,6 @@ In addition to the topics below, it's also good to know the basic workings of th
 
 <!-- https://github.com/micromata/awesome-css-learning -->
 - [x] [CSS Nouveau](https://www.spicyweb.dev/css-nouveau/1-vanilla-has-never-tasted-so-hot/) <!-- https://letslearnruby.com/images/spicy-web.png -->
-- [ ] [Modern CSS](https://modern-css.com/)
 - [ ] 💲[Victor Ponamariov - Modern CSS for Better User Experience](https://css.vpon.me/)
 - [ ] 💲[Every Layout](https://every-layout.dev/)
 
@@ -166,12 +165,18 @@ In addition to the topics below, it's also good to know the basic workings of th
 
 ### Web standards
 
-References for when you want to stick to native Web technologies and patterns.
-
-- [Plain Vanilla](https://plainvanillaweb.com/index.html) <!-- https://letslearnruby.com/images/plain-vanilla.png -->
-- [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html) <!-- https://adrianroselli.com/wp-content/uploads/2022/08/cthulhu-selfie-300x300.jpg -->
-- [Stephanie Eckles - SmolCSS](https://smolcss.dev/) <!-- https://smolcss.dev/smolcss.png -->
-- [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/) <!-- https://moderncss.dev/img/social/home.jpeg -->
+- **References:**
+  - [Plain Vanilla](https://plainvanillaweb.com/index.html) <!-- https://letslearnruby.com/images/plain-vanilla.png -->
+  - [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html) <!-- https://adrianroselli.com/wp-content/uploads/2022/08/cthulhu-selfie-300x300.jpg -->
+  - [Modern CSS](https://modern-css.com/) <!-- https://modern-css.com/assets/images/apple-touch-icon.png -->
+  - [Stephanie Eckles - SmolCSS](https://smolcss.dev/) <!-- https://smolcss.dev/smolcss.png -->
+  - [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/) <!-- https://moderncss.dev/img/social/home.jpeg -->
+- **New web APIs:**
+  - [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  - [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  - [Invoker Commands](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  - [Popover](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  - [IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
 
 ### JavaScript
 
@@ -217,12 +222,6 @@ References for when you want to stick to native Web technologies and patterns.
   - [ ] 💲[TypeScript Cookbook](https://typescript-cookbook.com/)
   - [ ] 💲[Effective TypeScript](https://effectivetypescript.com/)
   - [ ] [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) and [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/)
-- **New web APIs:**
-  - [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
-  - [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
-  - [Invoker Commands](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
-  - [Popover](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
-  - [IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
 
 <!-- TypeScript curiosities:
   - https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system
