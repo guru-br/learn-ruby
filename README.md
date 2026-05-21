@@ -143,6 +143,7 @@ In addition to the topics below, it's also good to know the basic workings of th
 <!-- https://github.com/micromata/awesome-css-learning -->
 - [x] [CSS Nouveau](https://www.spicyweb.dev/css-nouveau/1-vanilla-has-never-tasted-so-hot/) <!-- https://letslearnruby.com/images/spicy-web.png -->
 - [ ] [Modern CSS](https://modern-css.com/)
+- [ ] 💲[Victor Ponamariov - Modern CSS for Better User Experience](https://css.vpon.me/)
 - [ ] 💲[Every Layout](https://every-layout.dev/)
 
 ### JavaScript
