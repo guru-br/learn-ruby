@@ -21,10 +21,10 @@ Notice a broken link? [Open an issue!](https://github.com/fpsvogel/learn-ruby/is
   - [Git](#git)
 - [Front end](#front-end)
   - [CSS](#css)
-  - [JavaScript](#javascript)
   - [Usability](#usability)
   - [Accessibility](#accessibility)
   - [Web standards](#web-standards)
+  - [JavaScript](#javascript)
   - [Hotwire](#hotwire)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
@@ -146,6 +146,33 @@ In addition to the topics below, it's also good to know the basic workings of th
 - [ ] 💲[Victor Ponamariov - Modern CSS for Better User Experience](https://css.vpon.me/)
 - [ ] 💲[Every Layout](https://every-layout.dev/)
 
+### Usability
+
+- [ ] [Vercel - Web Interface Guidelines](https://vercel.com/design/guidelines)
+- [ ] [Laws of UX](https://lawsofux.com/articles/)
+- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
+- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
+- [x] [Victor Ponamariov - 100 UI/UX Tips](https://vpon.me/hundred) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
+- [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
+
+### Accessibility
+
+- [ ] [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
+- [ ] [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) or [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/)
+- [ ] [Responsible Web Applications](https://responsibleweb.app/)
+- [ ] 💲[Inclusive Components](https://book.inclusive-components.design/)
+- [ ] [RailsConf talks on accessibility](https://www.youtube.com/results?search_query=railsconf+accessibility)
+- [ ] Examples of accessible components: [Deque University Code Library](https://dequeuniversity.com/library/), [Scott O'Hara's Accessible Components](https://github.com/scottaohara/accessible_components)
+
+### Web standards
+
+References for when you want to stick to native Web technologies and patterns.
+
+- [Plain Vanilla](https://plainvanillaweb.com/index.html) <!-- https://letslearnruby.com/images/plain-vanilla.png -->
+- [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html) <!-- https://adrianroselli.com/wp-content/uploads/2022/08/cthulhu-selfie-300x300.jpg -->
+- [Stephanie Eckles - SmolCSS](https://smolcss.dev/) <!-- https://smolcss.dev/smolcss.png -->
+- [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/) <!-- https://moderncss.dev/img/social/home.jpeg -->
+
 ### JavaScript
 
 - **Basics:**
@@ -216,33 +243,6 @@ com/u/59030169?s=400 -->
         https://awesomealpine.com
         https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar#c_gjzjag
   -->
-
-### Usability
-
-- [ ] [Vercel - Web Interface Guidelines](https://vercel.com/design/guidelines)
-- [ ] [Laws of UX](https://lawsofux.com/articles/)
-- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
-- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
-- [x] [Victor Ponamariov - 100 UI/UX Tips](https://vpon.me/hundred) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
-- [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
-
-### Accessibility
-
-- [ ] [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
-- [ ] [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) or [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/)
-- [ ] [Responsible Web Applications](https://responsibleweb.app/)
-- [ ] 💲[Inclusive Components](https://book.inclusive-components.design/)
-- [ ] [RailsConf talks on accessibility](https://www.youtube.com/results?search_query=railsconf+accessibility)
-- [ ] Examples of accessible components: [Deque University Code Library](https://dequeuniversity.com/library/), [Scott O'Hara's Accessible Components](https://github.com/scottaohara/accessible_components)
-
-### Web standards
-
-References for when you want to stick to native Web technologies and patterns.
-
-- [Plain Vanilla](https://plainvanillaweb.com/index.html) <!-- https://letslearnruby.com/images/plain-vanilla.png -->
-- [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html) <!-- https://adrianroselli.com/wp-content/uploads/2022/08/cthulhu-selfie-300x300.jpg -->
-- [Stephanie Eckles - SmolCSS](https://smolcss.dev/) <!-- https://smolcss.dev/smolcss.png -->
-- [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/) <!-- https://moderncss.dev/img/social/home.jpeg -->
 
 ### Hotwire
 
